@@ -117,3 +117,30 @@
   display: inline-block;
   font-size: 16px;
 }
+
+.picture {
+  border: 2px solid #020202;
+}
+
+.top-text1 {
+  height: 40px;
+  width: 300px;
+  border-radius: 10px;
+  margin-right: 10px;
+  font-size: larger;
+  text-align: center;
+}
+
+.bottom-text1 {
+  height: 40px;
+  width: 300px;
+  border-radius: 10px;
+  margin-right: 10px;
+  font-size: larger;
+  text-align: center;
+}
+
+.Choose {
+  height: 40px;
+  width: 300px;
+}

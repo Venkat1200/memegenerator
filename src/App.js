@@ -128,6 +128,7 @@ function App() {
       <br />
       <br />
       <input
+        className="Choose"
         ref={fileRef}
         type="file"
         onChange={(e) => setUploadedImage(e.target.files[0])}
