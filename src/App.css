@@ -1,9 +1,5 @@
-/* * {
-  background-color: black;
-} */
-
 .App {
-  background-color: #0480a3;
+  background: #eef2ee;
   text-align: center;
 }
 
@@ -22,17 +18,18 @@
 }
 
 .picture {
+  height: 350px;
   object-fit: fill;
 }
 
 .title-main {
   font-weight: 600;
-  font-style: italic;
+  font-style: bold;
   color: #4caf50;
 }
 
 .title-meme {
-  color: rgb(243, 234, 234);
+  color: rgb(213, 12, 12);
   font-weight: 300;
 }
 

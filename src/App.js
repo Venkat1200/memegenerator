@@ -66,7 +66,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className="title-main ">Meme Generator</h1>
+      <h1 className="title-main ">MAKE YOUR MEME</h1>
       <h2 className="title-meme">
         {!uploadedImage && memes[currentMeme]?.name}
       </h2>
